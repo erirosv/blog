@@ -1,4 +1,4 @@
 baseURL = 'http://erirosv.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Systemic'
 theme= "kiss"
