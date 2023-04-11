@@ -1,5 +1,6 @@
 ---
 title: "Data and Society: quiz"
+date: 2023-04-11
 ---
 
 # Data & Society: Quiz
