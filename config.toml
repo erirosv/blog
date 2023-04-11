@@ -2,3 +2,29 @@ baseURL = 'http://erirosv.github.io/blog/'
 languageCode = 'en-us'
 title = 'Systemic'
 theme= "kiss"
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "Erik" # Author full name
+authorEmail = "erirosv@gmail.com" # Author email
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+
+[params.social]
+twitter = ""
+github = "erirosv"
+email = "erirosv@gmail.com"
+linkedin = ""
+facebook = ""
+instagram = ""
+codepen = ""
+rss = "index.xml"
+
+[params.social.config]
+platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
+theme = "ananke"
