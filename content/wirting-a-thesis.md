@@ -10,3 +10,4 @@ draft: true
 
 ## Mental fatique
 
+Prepare your self! Starting with the literature review is the most 
